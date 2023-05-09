@@ -247,7 +247,7 @@ object-fit: cover;
   font-size: 17px;
   line-height: 1.5;
 }
-.credit {
+footer .credit {
   font-size: 17px;
   font-weight: normal;
   letter-spacing: .1px;
