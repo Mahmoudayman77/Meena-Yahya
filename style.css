@@ -247,4 +247,15 @@ object-fit: cover;
   font-size: 17px;
   line-height: 1.5;
 }
+.credit {
+  font-size: 17px;
+  font-weight: normal;
+  letter-spacing: .1px;
+  border-top: .5px solid #fff;
+  padding: 16px;
+  text-align: center;
+}
+footer span {
+  color: #fff; 
+
 /* end blogs start*/
